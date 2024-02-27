@@ -1,0 +1,16 @@
+{
+  "description": "Aula do ricardo",
+  "authors": [
+    {
+      "name": "matheus rufino silva",
+      "email": "rufinomatheus2@gmail.com"
+    }
+  ],
+  "autoload": {
+    "Sts\\": "app/sts",
+    "core": "core"
+  },
+  "require": {
+    
+  }
+}
